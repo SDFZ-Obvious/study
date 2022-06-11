@@ -9,4 +9,4 @@
 
 ### Perjury 教，欢迎访问：[perjury官网](https://sdfzyanxinyi.github.io/perjurygod/)
 
-### 关注我谷：[luogu][(https://sdfzyanxinyi.github.io/perjurygod/](https://www.luogu.com.cn/user/343342)
+### 关注我谷：[luogu][(https://sdfzyanxinyi.github.io/perjurygod/](https://www.luogu.com.cn/user/343342）
